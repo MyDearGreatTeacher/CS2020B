@@ -1,12 +1,18 @@
+# 網站伺服器XAMPP
+
 ![xampp.jpg](xampp.jpg)
 
-# 管理介面
+# XAMPP管理介面
 
 ![xampp2.png](xampp2.png)
 
 ![xampp3.png](xampp3.png)
 
-# 網站伺服器XAMPP
+# 網站伺服器XAMPP 檔案結構
+
+![xampp4.png](xampp4.png)
+
+
 ```
 C:\xampp2\htdocs\TF
 
