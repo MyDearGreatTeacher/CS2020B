@@ -1,6 +1,10 @@
 ![xampp.jpg](xampp.jpg)
 
+# 管理介面
+
 ![xampp2.png](xampp2.png)
+
+![xampp3.png](xampp3.png)
 
 # 網站伺服器XAMPP
 ```
