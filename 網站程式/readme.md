@@ -1,5 +1,7 @@
 ![xampp.jpg](xampp.jpg)
 
+![xampp2.png](xampp2.png)
+
 # 網站伺服器XAMPP
 ```
 C:\xampp2\htdocs\TF
