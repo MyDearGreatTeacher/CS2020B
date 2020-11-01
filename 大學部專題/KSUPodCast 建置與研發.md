@@ -31,7 +31,10 @@ https://daodu.tech/
 馬力歐陪你喝一杯
 https://drinkwithmario.thenewslens.com/
 ```
-
+```
+2020年35個優質中文Podcast節目推薦，讓耳朵聽見全世界
+https://stillcarol.tw/podcast-list/
+```
 ## Podcast平台
 ```
 Apple Podcast
