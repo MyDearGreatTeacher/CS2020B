@@ -60,8 +60,8 @@ https://tinyurl.com/yy992be2
 ```
 ## Podcast 設備
 ```
-
-
+所以你也要跟風做podcast了嗎？好和弦帶你一次搞定podcast器材設備！
+https://www.youtube.com/watch?v=QGHUu_nbmMI
 ```
 
 
