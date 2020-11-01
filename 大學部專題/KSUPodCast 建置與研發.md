@@ -3,7 +3,14 @@
 
 ```
 ```
+Best Open-Source Podcast Platform
+https://medium.com/@faizanfahim/4-open-source-podcast-platforms-self-hosted-podcast-cms-f1b6bcb2c73d
+4 Open-Source Podcast Platforms (self-hosted Podcast CMS)
 
+WordPress
+Podcast Generator
+Podsheets
+MyPodcastPublisher
 ```
 
 ## podcasts介紹
@@ -35,7 +42,23 @@ https://drinkwithmario.thenewslens.com/
 2020年35個優質中文Podcast節目推薦，讓耳朵聽見全世界
 https://stillcarol.tw/podcast-list/
 ```
+```
+
+https://player.fm/featured/open-source
+```
 ## Podcast平台
+```
+7個聽Podcast節目平台
+Podcast 可以隨時上網免費收聽，分享 7 個聽 Podcast 節目平台。
+
+▪️ Soundon（台灣新創平台）
+▪️ Firstory（台灣聽/製作 Podcast 平台）
+▪️ Baabao（台灣八寶網路廣播）
+▪️ Soundcloud
+▪️ Apple Podcast（ iPhone 手機內建APP）
+▪️ Google Podcast（Android 手機）
+▪️ Spotify Podcast
+```
 ```
 Apple Podcast
 
@@ -69,6 +92,11 @@ https://www.youtube.com/watch?v=QGHUu_nbmMI
 
 
 ## Podcast 快速教學
+```
+Firstory APP 自製 Podcast 
+可簡單用手機錄製 Podcast，一鍵上傳到 Apple Podcast，Spotify 等各大平台
+https://medium.com/firstory/firstory-%E6%98%AF%E6%9C%80%E7%B0%A1%E5%96%AE%E7%9A%84-podcast-%E8%A3%BD%E4%BD%9C%E5%B7%A5%E5%85%B7-ee594521e1ef
+```
 ```
 【Podcast 快速教學】10分鐘學會錄製、上傳 Podcast 音頻節目 (五步驟、零元製作、免買麥克風)
 https://www.youtube.com/watch?v=YhmnYiTIqaY
