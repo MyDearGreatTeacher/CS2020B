@@ -29,6 +29,19 @@ https://www.w3schools.com/default.asp
 ```
 # 參考書
 ```
+日本規定從2020 年起，「程式設計」將列為小學的必修課，
+```
+```
+
+https://reurl. cc/R 4 NL Ex
+```
+```
+HTML5、CSS3、JavaScript、jQuery、jQuery UI、Ajax、RWD 網頁程式設計, 7/e
+陳惠貞
+碁峰資訊
+2020-10-21
+```
+```
 跨裝置網頁設計 -- HTML5、CSS3、JavaScript、jQuery、Bootstrap, 4/e
 陳惠貞
 碁峰資訊
