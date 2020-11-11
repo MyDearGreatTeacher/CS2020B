@@ -1,6 +1,6 @@
-#
+# 1.觀念題與簡答題
 ```
-觀念題與簡答題::簡單說明底下重要觀念:
+::簡單說明底下重要觀念:
 為強化學生對專業英文的學習，本次考試部分試題採英文命題，學生可以用中文作答
 
 學習目標:本試題旨在訓練學生以 自己清楚的重點  說明 表達   對  某些觀念 的 認知。
@@ -41,7 +41,7 @@ CSS
 https://github.com/s109000542/photo/blob/main/%E6%9C%9F%E4%B8%AD%E8%80%83.md
 ```
 
-# 問答與申論題 :OSI Model 與 TCP/IP protocol
+# 2.問答與申論題 :OSI Model 與 TCP/IP protocol
 ```
 本題須清楚簡述底下主題:
 1. 解釋 communication protocol(簡稱協定 protocol)
