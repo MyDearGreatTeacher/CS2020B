@@ -34,6 +34,12 @@ CSS
 11. RWD
 12. SEO
 ```
+### 用簡單的 自己理解 的 話 說明觀念
+```
+底下是 同學 的 參考解答
+
+https://github.com/s109000542/photo/blob/main/%E6%9C%9F%E4%B8%AD%E8%80%83.md
+```
 
 # 問答與申論題 :OSI Model 與 TCP/IP protocol
 ```
