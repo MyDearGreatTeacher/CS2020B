@@ -5,6 +5,9 @@ https://www.onlinegdb.com/online_c_compiler
 ```
 https://github.com/capss22/IPAS-/tree/master/linux-C
 ```
+```
+https://github.com/ericddo/cs4high_4080E069/tree/master/C
+```
 #
 ```
 C 語言教學手冊 第4版(附CD)
