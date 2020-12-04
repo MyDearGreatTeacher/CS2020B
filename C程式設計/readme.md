@@ -31,6 +31,10 @@ C 語言教學手冊 第4版(附CD)
 作者：洪維恩
 書號：FS712
 ISBN：9789574424849
+
+https://drive.google.com/file/d/1YjHCTEKWaCBZjjbxfmJ8WdAe8H-TK3ZQ/view?usp=sharing
+
+https://drive.google.com/file/d/18jq3SwFKT2hTvDgEWHDQfntbztXInHAZ/view?usp=sharing
 ```
 ```
 基礎程式設計
