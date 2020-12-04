@@ -8,6 +8,22 @@ https://github.com/capss22/IPAS-/tree/master/linux-C
 ```
 https://github.com/ericddo/cs4high_4080E069/tree/master/C
 ```
+# 指標變數
+```
+#include <stdio.h>
+#include <stdlib.h>
+int
+main (void)
+{
+  int *ptr, num = 20;	
+  ptr = &num;
+  *ptr=*ptr+10;
+  printf ("num=%d, &num=%p\n", num, &num);
+//  printf ("*ptr=%d, ptr=%p, &ptr=%p\n", *ptr, ptr, &ptr);
+  system ("pause");
+  return 0;
+}
+```
 #
 ```
 C 語言教學手冊 第4版(附CD)
