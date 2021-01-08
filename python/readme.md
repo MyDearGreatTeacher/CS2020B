@@ -1,3 +1,9 @@
+#
+```
+https://github.com/HappyHackingHigh/HappyPythonDay
+https://github.com/MyFirstSecurity2020/python2020
+https://github.com/MyDearGreatTeacher/T/tree/master/Python
+```
 # Python小測驗_100題
 ```
 https://github.com/MyFirstSecurity2020/python2020/blob/main/python202010/Y_1_Python%E5%B0%8F%E6%B8%AC%E9%A9%97_100%E9%A1%8C.md
